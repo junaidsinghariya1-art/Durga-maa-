@@ -1,0 +1,6 @@
+{
+  "name": "Durga Maa Loan",
+  "description": "Durga Maa Loan - Complete secure loan management, verified UPI repayments, and consent-based KYC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
